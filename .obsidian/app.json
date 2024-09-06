@@ -1,0 +1,19 @@
+{
+  "attachmentFolderPath": "c_source/att",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "a_BOX",
+  "showLineNumber": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 68
+  },
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "showRibbon": true
+}

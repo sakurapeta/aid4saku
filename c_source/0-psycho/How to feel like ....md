@@ -1,0 +1,1 @@
+-pretent to be a robot(android. )

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "276f0b406f759f41",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe9a782f29077f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f15aa3ef256cefb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c_source/2 work/2006-An Improved Mellor–Yamada Level-3 Model：Its Numerical Stability and Application to a Regional Prediction of Advection Fog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5df76e7f07b03dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_BOX/1953-NUMERICAL INTEGRATION OF THE QUASI-GEOSTROPHIC EQUATIONS FOR BAROTROPIC AND SIMPLE BAROCLINIC FLOWS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "716486b651bf2b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "36fd691ba26bc778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6fc7c0b180330c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5580984f88a24436",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47721369bcc0cb65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6089ed90e71f659b",
+    "type": "split",
+    "children": [
+      {
+        "id": "093f94d54d7d54bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c4802f428c3b44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "a_BOX/1953-NUMERICAL INTEGRATION OF THE QUASI-GEOSTROPHIC EQUATIONS FOR BAROTROPIC AND SIMPLE BAROCLINIC FLOWS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9427c769d32542b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "a_BOX/1953-NUMERICAL INTEGRATION OF THE QUASI-GEOSTROPHIC EQUATIONS FOR BAROTROPIC AND SIMPLE BAROCLINIC FLOWS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf42fde484af8cca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6975fe132f8394d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "a_BOX/1953-NUMERICAL INTEGRATION OF THE QUASI-GEOSTROPHIC EQUATIONS FOR BAROTROPIC AND SIMPLE BAROCLINIC FLOWS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "5df76e7f07b03dab",
+  "lastOpenFiles": [
+    "c_source/2 work/2006-An Improved Mellor–Yamada Level-3 Model：Its Numerical Stability and Application to a Regional Prediction of Advection Fog.md",
+    "a_BOX/1953-NUMERICAL INTEGRATION OF THE QUASI-GEOSTROPHIC EQUATIONS FOR BAROTROPIC AND SIMPLE BAROCLINIC FLOWS.md",
+    "c_source/2 work/1974-A Hierarchy of Turbulence Closure Models for Planetary Boundary Layers.md",
+    "c_source/2 work/1973-Analytic Prediction of the Properties of Stratified Planetary Surface Layers.md",
+    "c_source/2 work/NtsPP/1974-A Hierarchy of Turbulence Closure Models for Planetary Boundary Layers.md",
+    "c_source/4 sideQ/N3考试指导.md",
+    "a_BOX/2008-Advances in simulating atmospheric variability with the ECMWF model：From synoptic to decadal time-scales.md",
+    "c_source/4 sideQ/信息系统项目管理.md",
+    "c_source/4 sideQ/科研笔记.md",
+    "c_source/4 sideQ/降尺度.md",
+    "c_source/4 sideQ/建筑书.md",
+    "c_source/4 sideQ/第二事业：如何开启？.md",
+    "c_source/4 sideQ/Blender/1.2 基础快捷键.md",
+    "c_source/4 sideQ/AI/ai基础操作.md",
+    "c_source/4 sideQ/非构思写作/非构思写作 15-17 实践哲学.md",
+    "c_source/4 sideQ/非构思写作/非构思写作 19 写作感思.md",
+    "c_source/4 sideQ/非构思写作/非构思写作 12-13 非构思写作是什么？.md",
+    "c_source/4 sideQ/非构思写作/非构思写作 7-9 写作是什么？.md",
+    "c_source/4 sideQ/非构思写作/非构思写作 3-6 从依附到独立.md",
+    "c_source/4 sideQ/非构思写作/非构思写作 1-2 为什么要学写作？.md",
+    "c_source/1 living/如何洗头.md",
+    "c_source/1 living/如何早睡.md",
+    "c_source/0 psycho/How to feel like ....md",
+    "c_source/0 psycho/闪回的着陆技巧.md",
+    "c_source/0 psycho/情绪日记.md",
+    "c_source/0 psycho/嫉妒情绪.md",
+    "c_source/att/Pasted image 20230106112405.png",
+    "c_source/att/Pasted image 20230106112223.png",
+    "c_source/att/Pasted image 20221103234321.png",
+    "c_source/att/Pasted image 20221103234304.png",
+    "c_source/att/Pasted image 20221103234249.png",
+    "c_source/att/Pasted image 20221103234224.png",
+    "c_source/att/Pasted image 20221029003927.png",
+    "c_source/att/Pasted image 20221029003734.png",
+    "c_source/att/Pasted image 20220813212654.png",
+    "_remotely-save-metadata-on-remote.json",
+    "~WRL3626.tmp",
+    "~WRD3622.tmp",
+    "~$读书报告模板.docx",
+    "c_source/att/大气边界层的垂直结构.png",
+    "c_source/tem",
+    "c_source/att",
+    "c_source/attachment",
+    "b_notes/2 work/NtsPP",
+    "b_notes/2 work/ncl",
+    "b_notes/2 work/attachment"
+  ]
+}

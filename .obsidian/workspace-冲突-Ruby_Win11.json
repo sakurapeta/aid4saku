@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "276f0b406f759f41",
+    "type": "split",
+    "children": [
+      {
+        "id": "125b44b16fe2d569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e72bfaf6608c6650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c_wrtng/count.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "716486b651bf2b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "36fd691ba26bc778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6fc7c0b180330c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5580984f88a24436",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47721369bcc0cb65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6089ed90e71f659b",
+    "type": "split",
+    "children": [
+      {
+        "id": "093f94d54d7d54bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c4802f428c3b44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "c_wrtng/count.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9427c769d32542b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "c_wrtng/count.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf42fde484af8cca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6975fe132f8394d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "c_wrtng/count.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e72bfaf6608c6650",
+  "lastOpenFiles": [
+    "a_SELF-MANUAL INSTRUCTION/HOME PAGE & ENTRANCE.md",
+    "c_wrtng/count.md",
+    "c_wrtng/【oc】小明.md",
+    "c_wrtng/release/【雀chun】美梦成真.md",
+    "c_wrtng/【碎chun】萤火虫（4-6）.md",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/3.md",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/2.md",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/1.md",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/月亮王子.pdf",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/雀巢x碎月.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/chun碎.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/【雀chun】美梦成真.pdf",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/【碎chun】月亮王子.pdf",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/库尔特·冯内古特 - 五号屠场.txt",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/医生和男护士-0853b4d528ff.txt",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/美梦成真jpg/【雀chun】美梦成真_page-0004.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/美梦成真jpg/【雀chun】美梦成真_page-0003.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/美梦成真jpg/【雀chun】美梦成真_page-0002.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/美梦成真jpg/【雀chun】美梦成真_page-0001.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/月亮王子jpg/【碎chun】月亮王子_page-0005.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/月亮王子jpg/【碎chun】月亮王子_page-0004.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/月亮王子jpg/【碎chun】月亮王子_page-0003.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/月亮王子jpg/【碎chun】月亮王子_page-0002.jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/A Beginner's Guide to Cultist Simulator.pdf",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/美梦成真jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/月亮王子jpg",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西/美梦成真jpg - 副本（垂直水平翻转",
+    "c_wrtng/什么东西啊好怪就喜欢这种怪东西",
+    "a_BOX/建筑作业.md",
+    "c_notes/生命中没缘由的喜欢.md",
+    "c_notes/如何洗头.md",
+    "c_notes/减少自我攻击：从生存到游乐场.md",
+    "c_notes/极简复盘.md",
+    "c_notes/不再厌学.md",
+    "c_notes/N3考试指导.md",
+    "c_notes/low risk To get Intimate with people.md",
+    "生命中没缘由的喜欢.md",
+    "如何洗头.md",
+    "减少自我攻击：从生存到游乐场.md",
+    "极简复盘.md",
+    "不再厌学.md",
+    "N3考试指导.md",
+    "low risk To get Intimate with people.md",
+    "c_wrtng/【oc】弗吉明.md",
+    "c_wrtng/【chun碎】月亮和他.md",
+    "c_wrtng/4.md"
+  ]
+}

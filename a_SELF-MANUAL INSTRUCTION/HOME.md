@@ -1,8 +1,5 @@
-命名，基于使用意义的命名，第三方指代
-》self-manual instruction 自我使用手册 abbr MANUAL 手册
-》人生答案书
-名称：自我使用手册/self-manual
-简称：使用手册/manual
+self-manual instruction 自助手册
+
 分类：个人信息类，指示性文件，日程管理，
 个人信息类：暂略。
 指示性文件：衣食住行，self care，回答问题/brain dump，实操指南
